@@ -1,0 +1,38 @@
+body {
+  margin-left: 40px;
+  font-family: sans-serif;
+  color: #333;
+}
+
+h1, h2 {
+  text-align: center;
+  color: #00b8d4;
+}
+
+h2 {
+  margin-top: 40px;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+img {
+  width: 30%;
+}
+
+li img {
+  margin-left: 40px;
+  margin-top: 20px;
+}
+
+ol {
+  margin: 20px 0;
+}
+
+ol img {
+  width: 100px;
+}
