@@ -13,6 +13,27 @@ h2 {
   margin-top: 40px;
 }
 
+h2 strong {
+  color: red;
+}
+
+.dialogue{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.message {
+  margin: 10px 0;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.name {
+  font-weight: bold;
+}
+
 ul {
   list-style: none;
   margin: 0;
