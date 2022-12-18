@@ -1,4 +1,4 @@
-body {
+/* body {
   margin-left: 40px;
   font-family: sans-serif;
   color: #333;
@@ -55,4 +55,43 @@ img {
 
 .container {
   display: flex;
+} */
+
+body {
+  background-color: #FFE8D6; /* Color de fondo navideño */
+}
+
+h1 {
+  color: #D22222; /* Color rojo navideño */
+  text-align: center;
+  text-transform: uppercase;
+  font-family: 'Cursive';
+}
+
+img {
+  border: 5px solid #D22222; /* Borde rojo navideño */
+  border-radius: 20px;
+}
+
+p {
+  font-family: 'Sans-serif';
+  font-size: 18px;
+  color: #336699;
+  text-align: center;
+}
+
+.imgNav {
+  width: 50%;
+  margin: 0 auto;
+  display: block;
+}
+
+a {
+  color: #D22222; /* Color rojo navideño */
+  text-decoration: none;
+}
+
+a:hover {
+  color: #336699; /* Color azul navideño */
+  text-decoration: underline;
 }
